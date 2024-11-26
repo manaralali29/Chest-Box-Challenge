@@ -1,0 +1,14 @@
+C:\Users\manar\OneDrive\Desktop\ChestState\bin\Debug\net8.0\ChestState.exe
+C:\Users\manar\OneDrive\Desktop\ChestState\bin\Debug\net8.0\ChestState.deps.json
+C:\Users\manar\OneDrive\Desktop\ChestState\bin\Debug\net8.0\ChestState.runtimeconfig.json
+C:\Users\manar\OneDrive\Desktop\ChestState\bin\Debug\net8.0\ChestState.dll
+C:\Users\manar\OneDrive\Desktop\ChestState\bin\Debug\net8.0\ChestState.pdb
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.AssemblyInfoInputs.cache
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.AssemblyInfo.cs
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.csproj.CoreCompileInputs.cache
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.dll
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\refint\ChestState.dll
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.pdb
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ChestState.genruntimeconfig.cache
+C:\Users\manar\OneDrive\Desktop\ChestState\obj\Debug\net8.0\ref\ChestState.dll
